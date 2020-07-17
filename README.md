@@ -4,6 +4,6 @@ dynamic network of COVID-19 is a dynamic dataset, which can build a network base
 If you have any questions, please contact sdrzlwz@126.com, our laboratory is always welcome to communicate.
 
 Wenzheng Li
-sdrzlwz@126.com; lwz@stu.ppsuc.edu.cn
+School of Information Network Security
 People's Public Security University of China
 +86-13126884036
