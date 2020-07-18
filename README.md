@@ -5,7 +5,6 @@ Based on particle propagation, the DPP model constructs complex system phenomena
 
 If you have any questions, please contact sdrzlwz@126.com, our laboratory is always welcome to communicate.
 
-Wenzheng Li
 
 Network Intelligence Lab
 
