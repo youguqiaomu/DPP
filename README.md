@@ -4,7 +4,7 @@ This library is the data and code of the DPP model, which will be updated contin
 "Information Propagation.zip" is the data set of several real information diffusion networks on Twitter.
 Based on particle propagation, the DPP model constructs complex system phenomena to realize node classification. Then, the model can be used to analyze the process and trend of public opinion diffusion, and then complete the prediction of information dissemination. Our laboratory will public a paper to introduce this model in more detail.
 
-If you have any questions, please contact sdrzlwz@126.com, our laboratory is always welcome to communicate.
+If you have any questions, please contact sdrzlwz@126.com. Welcome to communicate.
 
 
 Network Intelligence Lab
